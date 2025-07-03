@@ -1,0 +1,5 @@
+[project]
+name = "skills"
+version = "0.1.0"
+description = "AAHL's Agent Skills. 汇集了多种实用的智能体技能，涵盖Home Assistant智能家居控制、微软Edge TTS和智谱GLM-TTS文本转语音、DuckDuckGo搜索、DeepWiki文档检索、加密货币行情、天气预报、Lark/飞书、影视搜索、商品比价等功能"
+requires-python = ">=3.10"
